@@ -1,0 +1,45 @@
+.imgdiv img {
+  height: 688px !important;
+  width: 1158px !important;
+}
+.parent {
+  justify-content: center !important;
+}
+
+.checkerr {
+  padding-top: 50px !important;
+  font-size: xx-large !important;
+  color: rgb(255, 37, 37) !important;
+}
+
+.conferr {
+  padding-top: 50px !important;
+  font-size: xx-large !important;
+  color: #099c09 !important;
+}
+
+.table-fixed tbody {
+  height: 300px;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.table-fixed thead,
+.table-fixed tbody,
+.table-fixed tr,
+.table-fixed td,
+.table-fixed th {
+  display: block;
+}
+
+.table-fixed tbody td,
+.table-fixed tbody th,
+.table-fixed thead > tr > th {
+  float: left;
+  position: relative;
+}
+
+.imagee {
+  border-radius: 10px;
+  box-shadow: -3px 9px 20px 0px #000000a8;
+}
